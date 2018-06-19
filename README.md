@@ -26,7 +26,9 @@
 
 ## Youtube Channels
 
+- [Adam Milard - The Architect of Games](https://www.youtube.com/user/Thefearalcarrot) 🇺🇸
 - [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) 🇺🇸
+- [Dan Root](https://www.youtube.com/user/rootay) 🇺🇸
 - [Gameumentary](https://www.youtube.com/channel/UCJS-pvsdN8JBnyPpV47gLSg) 🇺🇸
 - [Gamkedo](https://www.youtube.com/user/GameDevLessons) 🇺🇸
 - [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) 🇺🇸
