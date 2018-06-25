@@ -60,5 +60,6 @@
 - [Gamedev Brasil](http://www.gamedev.com.br) 🇧🇷
 - [Gamesindustry.biz](https://www.gamesindustry.biz) 🇺🇸
 - [GDC Vault](https://www.gdcvault.com/) 🇺🇸
+- [Grassetti Art](https://gumroad.com/grassettiart) 🇺🇸
 - [Indústria de jogos](http://www.industriadejogos.com.br) 🇧🇷
 - [Three Hundred Mechanics](http://www.squidi.net) 🇺🇸
