@@ -52,6 +52,7 @@
 
 ## Websites
 
+- [GamaSutra](https://www.gamasutra.com/) 🇺🇸
 - [Game Developer](https://gamedeveloper.com.br) 🇧🇷
 - [Gamedev Brasil](http://www.gamedev.com.br) 🇧🇷
 - [Gamesindustry.biz](https://www.gamesindustry.biz) 🇺🇸
