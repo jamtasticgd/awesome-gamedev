@@ -47,7 +47,10 @@
 
 - [Art of Game Design](https://www.amazon.com/Art-Game-Design-Lenses-Second/dp/1466598646) 🇺🇸
 - [Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) 🇺🇸
+- [Game Engine Architecture](http://gameenginebook.com/) 🇺🇸
+- [Game Programming Patterns] (http://gameprogrammingpatterns.com/) 🇺🇸
 - [Rules of Play](https://www.amazon.com/Rules-Play-Design-Fundamentals-Press/dp/0262240459) 🇺🇸
+- [The Book of Shaders] (https://thebookofshaders.com/) 🇺🇸
 - [Theory of Fun](www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210) 🇺🇸
 
 ## Websites
