@@ -34,6 +34,7 @@
 - [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 - [Indústria de jogos](https://www.youtube.com/channel/UCwTIfd7zrjlPxzEU_NlqznA)
 - [Jogabilidade](https://www.youtube.com/user/jogabilidades)
+- [Luciano Soares - Blender](https://www.youtube.com/user/lsdruid/videos)
 - [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
 - [Mark Brown - Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)
 - [Nautilus](https://www.youtube.com/user/nautiluslink)
