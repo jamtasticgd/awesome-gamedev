@@ -66,3 +66,7 @@
 - [Grassetti Art](https://gumroad.com/grassettiart) 🇺🇸
 - [Indústria de jogos](http://www.industriadejogos.com.br) 🇧🇷
 - [Three Hundred Mechanics](http://www.squidi.net) 🇺🇸
+
+## Videos Courses
+
+- [Start Your Own Game Company With John Romero](https://www.linkedin.com/learning/start-your-own-game-company-with-john-romero/) 🇺🇸 $
