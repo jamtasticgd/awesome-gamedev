@@ -1,4 +1,4 @@
-# Awesome Gamedev
+﻿# Awesome Gamedev
 
 ## Podcasts
 
@@ -66,6 +66,29 @@
 - [Grassetti Art](https://gumroad.com/grassettiart) 🇺🇸
 - [Indústria de jogos](http://www.industriadejogos.com.br) 🇧🇷
 - [Three Hundred Mechanics](http://www.squidi.net) 🇺🇸
+- [DesignBetter.Co](https://www.designbetter.co) 🇺🇸
+- [Creative SkillSet](http://creativeskillset.org) 🇺🇸
+- [Fábrica de Jogos](http://www.fabricadejogos.net) 🇧🇷
+- [Dark Patterns](https://darkpatterns.org) 🇺🇸
+- [Newzoo](https://newzoo.com) 🇺🇸
+- [Destructoid](https://www.destructoid.com) 🇺🇸
+- [Polycount](https://polycount.com) 🇺🇸
+- [3D Total](https://www.3dtotal.com) 🇺🇸
+- [CG Society](http://www.cgsociety.org) 🇺🇸
+- [Game Carrer Guide](https://www.gamecareerguide.com) 🇺🇸
+
+## Forums
+
+- [CG Society](http://forums.cgsociety.org) 🇺🇸
+- [Polycount](https://polycount.com/forum) 🇺🇸
+- [Zbrush Central](http://www.zbrushcentral.com/forum.php) 🇺🇸
+- [Unreal](https://forums.unrealengine.com) 🇺🇸
+
+## Vagas
+
+- [Games Job](http://www.gamesjob.com.br) 🇺🇸
+- [Vagas CG](https://vagascg.com.br) 🇧🇷
+- [Vagas BR](https://twitter.com/vaggasbr) 🇧🇷
 
 ## Videos Courses
 
