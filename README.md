@@ -70,3 +70,8 @@
 ## Videos Courses
 
 - [Start Your Own Game Company With John Romero](https://www.linkedin.com/learning/start-your-own-game-company-with-john-romero/) 🇺🇸 $
+
+## Presentations
+
+- [Igniting the Spark: Building Online Services for Borderlands 2](https://www.slideshare.net/JimmyS7/igniting-the-spark-building-online-services-for-borderlands-2) 🇺🇸
+- [Gaming in the Cloud: How Gearbox Software Uses Amazon Web Services to Reach Millions of Gamers](https://www.slideshare.net/JimmyS7/gaming-in-the-cloud-how-gearbox-software-uses-amazon-web-services-to-reach-millions-of-gamers) 🇺🇸
