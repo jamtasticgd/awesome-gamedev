@@ -98,3 +98,13 @@
 
 - [Igniting the Spark: Building Online Services for Borderlands 2](https://www.slideshare.net/JimmyS7/igniting-the-spark-building-online-services-for-borderlands-2) 🇺🇸
 - [Gaming in the Cloud: How Gearbox Software Uses Amazon Web Services to Reach Millions of Gamers](https://www.slideshare.net/JimmyS7/gaming-in-the-cloud-how-gearbox-software-uses-amazon-web-services-to-reach-millions-of-gamers) 🇺🇸
+- [Fighting Latency on Call of Duty: Black Ops III](https://www.youtube.com/watch?v=EtLHLfNpu84&t=86s)🇺🇸
+- [The Early Days of id Software - John Romero](https://www.youtube.com/watch?v=E2MIpi8pIvY)🇺🇸
+- [Game Development with SDL 2.0 (Steam Dev Days 2014) - Ryan Gordon (Icculus)](https://www.youtube.com/watch?v=MeMPCSqQ-34)🇺🇸
+
+## Game Studios Tours
+- [Monolith Studio Tour - Linus Tech Tips](https://www.youtube.com/watch?v=VUlLcO5sKIk)🇺🇸
+- [Epic Games Studios Tour 2012 - Game Informer](https://www.youtube.com/watch?v=2DvC3hpOhKI)🇺🇸
+- [Rare Studios Tour - Arekkz](https://www.youtube.com/watch?v=lHmeKEFzBBs&t=289s)🇺🇸
+- [Vigil Games Studios Tour - Game Informer](https://www.youtube.com/watch?v=EdUvOhOFeiY)🇺🇸
+- [Behind the Scenes at Double Fine Productions!](https://www.youtube.com/watch?v=sIxCFemhogo)🇺🇸
