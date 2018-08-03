@@ -108,3 +108,11 @@
 - [Rare Studios Tour - Arekkz](https://www.youtube.com/watch?v=lHmeKEFzBBs&t=289s)🇺🇸
 - [Vigil Games Studios Tour - Game Informer](https://www.youtube.com/watch?v=EdUvOhOFeiY)🇺🇸
 - [Behind the Scenes at Double Fine Productions!](https://www.youtube.com/watch?v=sIxCFemhogo)🇺🇸
+
+## Game Engines
+- [Unity3D](http://www.unity3d.com)
+- [Unreal Development Kit](http://www.unrealengine.com)
+- [Xenko](http://www.xenko.com)
+
+## Game Libs and Frameworks
+- [Simple Direct Library]
