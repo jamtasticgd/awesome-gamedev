@@ -113,6 +113,22 @@
 - [Unity3D](http://www.unity3d.com)
 - [Unreal Development Kit](http://www.unrealengine.com)
 - [Xenko](http://www.xenko.com)
+- [Godot](https://godotengine.org/)
+- [Amazon Lumberyard](https://aws.amazon.com/pt/lumberyard/)
+- [OGRE(Object-Oriented Graphics Rendering Engine)](https://www.ogre3d.org/)
+- [Irrlicht](http://irrlicht.sourceforge.net/)
+- [GameMaker Studio](https://www.yoyogames.com/gamemaker)
+- [Constructor](https://www.construct.net/)
 
 ## Game Libs and Frameworks
+### Mixed
 - [Simple Direct Library](http://www.libsdl.org)
+- [Phaser](https://phaser.io/)
+
+### Audio
+- [OpenAL](https://www.openal.org/)
+
+### Graphics
+- [OpenGL](https://www.opengl.org/)
+- [DirectX](https://blogs.msdn.microsoft.com/directx/)
+- [Vulkan](https://www.khronos.org/vulkan/)
