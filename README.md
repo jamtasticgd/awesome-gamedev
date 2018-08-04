@@ -119,6 +119,7 @@
 - [Irrlicht](http://irrlicht.sourceforge.net/)
 - [GameMaker Studio](https://www.yoyogames.com/gamemaker)
 - [Constructor](https://www.construct.net/)
+- [CryEngine](https://www.cryengine.com/)
 
 ## Game Libs and Frameworks
 ### Mixed
