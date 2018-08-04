@@ -93,6 +93,7 @@
 ## Videos Courses
 
 - [Start Your Own Game Company With John Romero](https://www.linkedin.com/learning/start-your-own-game-company-with-john-romero/) 🇺🇸 $
+- [O Guia Definitivo para Desenvolvimento de Jogos com Unity(Legendado)](https://www.udemy.com/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/) 🇺🇸 $
 
 ## Presentations
 
