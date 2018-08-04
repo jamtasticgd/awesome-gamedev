@@ -53,7 +53,7 @@
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) 🇺🇸
 - [Rules of Play](https://www.amazon.com/Rules-Play-Design-Fundamentals-Press/dp/0262240459) 🇺🇸
 - [The Book of Shaders](https://thebookofshaders.com/) 🇺🇸
-- [Theory of Fun](www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210) 🇺🇸
+- [Theory of Fun](https://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210) 🇺🇸
 
 ## Websites
 
