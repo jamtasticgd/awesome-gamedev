@@ -109,6 +109,7 @@
 - [Rare Studios Tour - Arekkz](https://www.youtube.com/watch?v=lHmeKEFzBBs&t=289s)🇺🇸
 - [Vigil Games Studios Tour - Game Informer](https://www.youtube.com/watch?v=EdUvOhOFeiY)🇺🇸
 - [Behind the Scenes at Double Fine Productions!](https://www.youtube.com/watch?v=sIxCFemhogo)🇺🇸
+- [#DevQuest](https://www.youtube.com/watch?v=8-j-iHCZC_Q)🇺🇸
 
 ## Game Engines
 - [Unity3D](http://www.unity3d.com)
