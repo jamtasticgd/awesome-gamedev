@@ -53,7 +53,7 @@
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) 🇺🇸
 - [Rules of Play](https://www.amazon.com/Rules-Play-Design-Fundamentals-Press/dp/0262240459) 🇺🇸
 - [The Book of Shaders](https://thebookofshaders.com/) 🇺🇸
-- [Theory of Fun](www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210) 🇺🇸
+- [Theory of Fun](https://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210) 🇺🇸
 
 ## Websites
 
@@ -93,6 +93,7 @@
 ## Videos Courses
 
 - [Start Your Own Game Company With John Romero](https://www.linkedin.com/learning/start-your-own-game-company-with-john-romero/) 🇺🇸 $
+- [O Guia Definitivo para Desenvolvimento de Jogos com Unity(Legendado)](https://www.udemy.com/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/) 🇧🇷 $
 
 ## Presentations
 
@@ -108,6 +109,7 @@
 - [Rare Studios Tour - Arekkz](https://www.youtube.com/watch?v=lHmeKEFzBBs&t=289s)🇺🇸
 - [Vigil Games Studios Tour - Game Informer](https://www.youtube.com/watch?v=EdUvOhOFeiY)🇺🇸
 - [Behind the Scenes at Double Fine Productions!](https://www.youtube.com/watch?v=sIxCFemhogo)🇺🇸
+- [#DevQuest](https://www.youtube.com/watch?v=8-j-iHCZC_Q)🇺🇸
 
 ## Game Engines
 - [Unity3D](http://www.unity3d.com)
@@ -120,6 +122,7 @@
 - [GameMaker Studio](https://www.yoyogames.com/gamemaker)
 - [Constructor](https://www.construct.net/)
 - [CryEngine](https://www.cryengine.com/)
+- [Blender Game Engine](https://www.blender.org/)
 
 ## Game Libs and Frameworks
 ### Mixed
