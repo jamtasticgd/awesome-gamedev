@@ -84,7 +84,7 @@
 - [Zbrush Central](http://www.zbrushcentral.com/forum.php) 🇺🇸
 - [Unreal](https://forums.unrealengine.com) 🇺🇸
 
-## Vagas
+## Jobs / Vagas
 
 - [Games Job](http://www.gamesjob.com.br) 🇺🇸
 - [Vagas CG](https://vagascg.com.br) 🇧🇷
@@ -104,6 +104,7 @@
 - [Game Development with SDL 2.0 (Steam Dev Days 2014) - Ryan Gordon (Icculus)](https://www.youtube.com/watch?v=MeMPCSqQ-34)🇺🇸
 
 ## Game Studios Tours
+
 - [Monolith Studio Tour - Linus Tech Tips](https://www.youtube.com/watch?v=VUlLcO5sKIk)🇺🇸
 - [Epic Games Studios Tour 2012 - Game Informer](https://www.youtube.com/watch?v=2DvC3hpOhKI)🇺🇸
 - [Rare Studios Tour - Arekkz](https://www.youtube.com/watch?v=lHmeKEFzBBs&t=289s)🇺🇸
@@ -112,6 +113,7 @@
 - [#DevQuest](https://www.youtube.com/watch?v=8-j-iHCZC_Q)🇺🇸
 
 ## Game Engines
+
 - [Unity3D](http://www.unity3d.com)
 - [Unreal Development Kit](http://www.unrealengine.com)
 - [Xenko](http://www.xenko.com)
@@ -125,14 +127,24 @@
 - [Blender Game Engine](https://www.blender.org/)
 
 ## Game Libs and Frameworks
+
 ### Mixed
+
 - [Simple Direct Library](http://www.libsdl.org)
 - [Phaser](https://phaser.io/)
 
 ### Audio
+
 - [OpenAL](https://www.openal.org/)
 
 ### Graphics
+
 - [OpenGL](https://www.opengl.org/)
 - [DirectX](https://blogs.msdn.microsoft.com/directx/)
 - [Vulkan](https://www.khronos.org/vulkan/)
+
+## Portifolios Examples
+
+- [Dean Tate](http://www.iamdeantate.com/)
+- [Pierre Stempin](http://www.pierre-stempin.com/)
+- [Hugo Peters](http://hugo.fyi/)
