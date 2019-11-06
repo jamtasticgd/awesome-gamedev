@@ -2,25 +2,39 @@
 
 ## Podcasts
 
+- [Café com games](https://open.spotify.com/show/0rR9g8Iy0avEb0LyUzS6YX) 🇧🇷🇷
 - [Clockwork Game Design](http://keithburgun.net/podcast-2/) 🇺🇸
+- [Coffee with Butterscotch](https://www.bscotch.net/podcast) 🇺🇸
 - [Debug Log](http://thedebuglog.com/category/podcast) 🇺🇸
+- [Game Audio Drops](http://gameaudioacademy.com/gac-podcast-drops) 🇧🇷
 - [Game Design Round Table](http://thegamedesignroundtable.com/) 🇺🇸
 - [Gamedev Breakdown](https://soundcloud.com/user-782123614) 🇺🇸
+- [Game Dev Advice](https://www.gamedevadvice.com/) 🇺🇸
+- [Game Dev Discussion](https://www.artstation.com/alexbeddows/blog) 🇺🇸
 - [Game Dev Loadout](https://www.gamedevloadout.com/podcast/) 🇺🇸
 - [Game Dev Unchained](https://www.gamedevunchained.com) 🇺🇸
+- [Game Jawns](https://gamejawns.podbean.com/) 🇺🇸
 - [GamesIndustry.biz](http://gibiz.libsyn.com/podcast) 🇺🇸
+- [GDT Brasil](https://anchor.fm/gdtbrasil) 🇧🇷
 - [GGDevCast](https://ggdevcast.com.br) 🇧🇷
 - [High Level Games](https://www.highlevelgames.ca/podcastingnetwork) 🇺🇸
+- [Holodeck](https://www.holodeckdesign.com.br/category/podcast/) 🇧🇷
+- [Humans Who Make Games with Adam Conover](https://starburns.audio/podcasts/humans-who-make-games/) 🇺🇸
+- [Indie Game Business](http://indiegame.business/) 🇺🇸
 - [Indievisivel](http://indievisivel.com.br/category/podcast-indievisivel/) 🇧🇷
 - [Jogabilidade (Dash)](http://jogabilida.de/category/podcasts/podcast-games/dash/) 🇧🇷
 - [Jogabilidade (Vértice)](http://jogabilida.de/category/podcasts/podcast-games/vertice/) 🇧🇷
 - [Jogabilidade (Construindo mundos)](http://jogabilida.de/category/podcasts/podcast-games/construindo-mundo/) 🇧🇷
+- [Level Design Lobby](http://leveldesignlobby.libsyn.com/website) 🇧🇷
 - [Nautilus Link](https://soundcloud.com/nautiluslink) 🇧🇷
+- [Nice Games Club](https://nicegames.club/) 🇺🇸
 - [Overloadr (Motherchip)](http://overloadr.com.br/podcasts/motherchip/) 🇧🇷
 - [Playmakers](http://brightblack.co/podcast/) 🇺🇸
 - [Podquest](http://www.podquest.com.br) 🇧🇷
 - [Pouco Pixel](https://poucopixel.com/) 🇧🇷
 - [Poligonal](https://www.vice.com/pt_br/topic/poligonal) 🇧🇷
+- [PDJ Show](https://producaodejogos.com/topicos/pdj-show/) 🇧🇷
+- [Press Start](https://open.spotify.com/show/4XC6e1yLqXvTB0yeeKGLyv?si=91ts7aeJShmFGHExUV4KpA) 🇧🇷
 - [Roguelike Radio](http://www.roguelikeradio.com/) 🇺🇸
 - [Wannaplay](http://www.wannaplay.com.br/podcasts/) 🇧🇷
 
