@@ -2,7 +2,7 @@
 
 ## Podcasts
 
-- [Café com games](https://open.spotify.com/show/0rR9g8Iy0avEb0LyUzS6YX) 🇧🇷🇷
+- [Café com games](https://open.spotify.com/show/0rR9g8Iy0avEb0LyUzS6YX) 🇧🇷
 - [Clockwork Game Design](http://keithburgun.net/podcast-2/) 🇺🇸
 - [Coffee with Butterscotch](https://www.bscotch.net/podcast) 🇺🇸
 - [Debug Log](http://thedebuglog.com/category/podcast) 🇺🇸
