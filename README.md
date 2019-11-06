@@ -1,4 +1,7 @@
 ﻿# Awesome Gamedev
+Our curated list of good stuff related to the development of games.
+
+This is released under a Creative Commons Attribution Share A like license, version 4.0. You can find its text in the LICENSE.md file.
 
 ## Podcasts
 
