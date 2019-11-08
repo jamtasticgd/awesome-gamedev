@@ -77,6 +77,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [Fabien Sanglard's Website](http://fabiensanglard.net/) 🇺🇸
 - [GamaSutra](https://www.gamasutra.com/) 🇺🇸
 - [Game Developer](https://gamedeveloper.com.br) 🇧🇷
+- [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap) 🇺🇸
 - [Gamedev Brasil](http://www.gamedev.com.br) 🇧🇷
 - [Gamesindustry.biz](https://www.gamesindustry.biz) 🇺🇸
 - [GDC Vault](https://www.gdcvault.com/) 🇺🇸
