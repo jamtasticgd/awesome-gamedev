@@ -168,3 +168,8 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [Dean Tate](http://www.iamdeantate.com/)
 - [Hugo Peters](http://hugo.fyi/)
 - [Pierre Stempin](http://www.pierre-stempin.com/)
+
+
+## Computer Science Course
+
+- [Forked from Open Source Society University (OSSU) - PT_BR Translation on Progress](https://github.com/jamtasticgd/computer-science) 🇧🇷 🇺🇸
