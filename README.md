@@ -74,6 +74,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 
 ## Websites
 
+- [Awesome Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking)
 - [Fabien Sanglard's Website](http://fabiensanglard.net/) 🇺🇸
 - [GamaSutra](https://www.gamasutra.com/) 🇺🇸
 - [Game Developer](https://gamedeveloper.com.br) 🇧🇷
@@ -112,6 +113,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 
 - [Start Your Own Game Company With John Romero](https://www.linkedin.com/learning/start-your-own-game-company-with-john-romero/) 🇺🇸 $
 - [O Guia Definitivo para Desenvolvimento de Jogos com Unity(Legendado)](https://www.udemy.com/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/) 🇧🇷 $
+- [How to Design a Puzzle Game In 5 Steps](https://www.youtube.com/watch?v=IxEg_Dr2utc) 🇺🇸
 
 ## Presentations
 
@@ -148,6 +150,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 
 ### Mixed
 
+- [Gosu](https://www.libgosu.org/)
 - [Simple Direct Library](http://www.libsdl.org)
 - [Phaser](https://phaser.io/)
 
