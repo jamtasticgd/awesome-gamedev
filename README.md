@@ -173,3 +173,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 ## Computer Science Course
 
 - [Forked from Open Source Society University (OSSU) - PT_BR Translation on Progress](https://github.com/jamtasticgd/computer-science) 🇧🇷 🇺🇸
+
+### Game Networking (Multiplayer/Netcode)
+
+- [Awesome Game Networking](https://github.com/jamtasticgd/Awesome-Game-Networking) 🇧🇷 🇺🇸
