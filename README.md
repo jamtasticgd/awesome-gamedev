@@ -74,9 +74,16 @@ This is released under a Creative Commons Attribution Share A like license, vers
 
 ## Websites
 
+- [3D Total](https://www.3dtotal.com) 🇺🇸
 - [Awesome Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking)
+- [Creative SkillSet](http://creativeskillset.org) 🇺🇸
 - [Fabien Sanglard's Website](http://fabiensanglard.net/) 🇺🇸
+- [Dark Patterns](https://darkpatterns.org) 🇺🇸
+- [DesignBetter.Co](https://www.designbetter.co) 🇺🇸
+- [Destructoid](https://www.destructoid.com) 🇺🇸
+- [Fábrica de Jogos](http://www.fabricadejogos.net) 🇧🇷
 - [GamaSutra](https://www.gamasutra.com/) 🇺🇸
+- [Game Carrer Guide](https://www.gamecareerguide.com) 🇺🇸
 - [Game Developer](https://gamedeveloper.com.br) 🇧🇷
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap) 🇺🇸
 - [Gamedev Brasil](http://www.gamedev.com.br) 🇧🇷
@@ -84,24 +91,16 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [GDC Vault](https://www.gdcvault.com/) 🇺🇸
 - [Grassetti Art](https://gumroad.com/grassettiart) 🇺🇸
 - [Indústria de jogos](http://www.industriadejogos.com.br) 🇧🇷
-- [Three Hundred Mechanics](http://www.squidi.net) 🇺🇸
-- [DesignBetter.Co](https://www.designbetter.co) 🇺🇸
-- [Creative SkillSet](http://creativeskillset.org) 🇺🇸
-- [Fábrica de Jogos](http://www.fabricadejogos.net) 🇧🇷
-- [Dark Patterns](https://darkpatterns.org) 🇺🇸
 - [Newzoo](https://newzoo.com) 🇺🇸
-- [Destructoid](https://www.destructoid.com) 🇺🇸
 - [Polycount](https://polycount.com) 🇺🇸
-- [3D Total](https://www.3dtotal.com) 🇺🇸
-- [CG Society](http://www.cgsociety.org) 🇺🇸
-- [Game Carrer Guide](https://www.gamecareerguide.com) 🇺🇸
+- [Three Hundred Mechanics](http://www.squidi.net) 🇺🇸
 
 ## Forums
 
 - [CG Society](http://forums.cgsociety.org) 🇺🇸
 - [Polycount](https://polycount.com/forum) 🇺🇸
-- [Zbrush Central](http://www.zbrushcentral.com/forum.php) 🇺🇸
 - [Unreal](https://forums.unrealengine.com) 🇺🇸
+- [Zbrush Central](http://www.zbrushcentral.com/forum.php) 🇺🇸
 
 ## Jobs / Vagas
 
@@ -111,48 +110,48 @@ This is released under a Creative Commons Attribution Share A like license, vers
 
 ## Videos Courses
 
-- [Start Your Own Game Company With John Romero](https://www.linkedin.com/learning/start-your-own-game-company-with-john-romero/) 🇺🇸 $
-- [O Guia Definitivo para Desenvolvimento de Jogos com Unity(Legendado)](https://www.udemy.com/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/) 🇧🇷 $
 - [How to Design a Puzzle Game In 5 Steps](https://www.youtube.com/watch?v=IxEg_Dr2utc) 🇺🇸
+- [O Guia Definitivo para Desenvolvimento de Jogos com Unity(Legendado)](https://www.udemy.com/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/) 🇧🇷 $
+- [Start Your Own Game Company With John Romero](https://www.linkedin.com/learning/start-your-own-game-company-with-john-romero/) 🇺🇸 $
 
 ## Presentations
 
-- [Igniting the Spark: Building Online Services for Borderlands 2](https://www.slideshare.net/JimmyS7/igniting-the-spark-building-online-services-for-borderlands-2) 🇺🇸
-- [Gaming in the Cloud: How Gearbox Software Uses Amazon Web Services to Reach Millions of Gamers](https://www.slideshare.net/JimmyS7/gaming-in-the-cloud-how-gearbox-software-uses-amazon-web-services-to-reach-millions-of-gamers) 🇺🇸
 - [Fighting Latency on Call of Duty: Black Ops III](https://www.youtube.com/watch?v=EtLHLfNpu84&t=86s)🇺🇸
-- [The Early Days of id Software - John Romero](https://www.youtube.com/watch?v=E2MIpi8pIvY)🇺🇸
 - [Game Development with SDL 2.0 (Steam Dev Days 2014) - Ryan Gordon (Icculus)](https://www.youtube.com/watch?v=MeMPCSqQ-34)🇺🇸
+- [Gaming in the Cloud: How Gearbox Software Uses Amazon Web Services to Reach Millions of Gamers](https://www.slideshare.net/JimmyS7/gaming-in-the-cloud-how-gearbox-software-uses-amazon-web-services-to-reach-millions-of-gamers) 🇺🇸
+- [Igniting the Spark: Building Online Services for Borderlands 2](https://www.slideshare.net/JimmyS7/igniting-the-spark-building-online-services-for-borderlands-2) 🇺🇸
+- [The Early Days of id Software - John Romero](https://www.youtube.com/watch?v=E2MIpi8pIvY)🇺🇸
 
 ## Game Studios Tours
 
-- [Monolith Studio Tour - Linus Tech Tips](https://www.youtube.com/watch?v=VUlLcO5sKIk)🇺🇸
+- [#DevQuest](https://www.youtube.com/watch?v=8-j-iHCZC_Q)🇺🇸
+- [Behind the Scenes at Double Fine Productions!](https://www.youtube.com/watch?v=sIxCFemhogo)🇺🇸
 - [Epic Games Studios Tour 2012 - Game Informer](https://www.youtube.com/watch?v=2DvC3hpOhKI)🇺🇸
+- [Monolith Studio Tour - Linus Tech Tips](https://www.youtube.com/watch?v=VUlLcO5sKIk)🇺🇸
 - [Rare Studios Tour - Arekkz](https://www.youtube.com/watch?v=lHmeKEFzBBs&t=289s)🇺🇸
 - [Vigil Games Studios Tour - Game Informer](https://www.youtube.com/watch?v=EdUvOhOFeiY)🇺🇸
-- [Behind the Scenes at Double Fine Productions!](https://www.youtube.com/watch?v=sIxCFemhogo)🇺🇸
-- [#DevQuest](https://www.youtube.com/watch?v=8-j-iHCZC_Q)🇺🇸
 
 ## Game Engines
 
+- [Amazon Lumberyard](https://aws.amazon.com/pt/lumberyard/)
+- [Blender Game Engine](https://www.blender.org/)
+- [Constructor](https://www.construct.net/)
+- [CryEngine](https://www.cryengine.com/)
+- [GameMaker Studio](https://www.yoyogames.com/gamemaker)
+- [Godot](https://godotengine.org/)
+- [Irrlicht](http://irrlicht.sourceforge.net/)
+- [OGRE(Object-Oriented Graphics Rendering Engine)](https://www.ogre3d.org/)
 - [Unity3D](http://www.unity3d.com)
 - [Unreal Development Kit](http://www.unrealengine.com)
 - [Xenko](http://www.xenko.com)
-- [Godot](https://godotengine.org/)
-- [Amazon Lumberyard](https://aws.amazon.com/pt/lumberyard/)
-- [OGRE(Object-Oriented Graphics Rendering Engine)](https://www.ogre3d.org/)
-- [Irrlicht](http://irrlicht.sourceforge.net/)
-- [GameMaker Studio](https://www.yoyogames.com/gamemaker)
-- [Constructor](https://www.construct.net/)
-- [CryEngine](https://www.cryengine.com/)
-- [Blender Game Engine](https://www.blender.org/)
 
 ## Game Libs and Frameworks
 
 ### Mixed
 
 - [Gosu](https://www.libgosu.org/)
-- [Simple Direct Library](http://www.libsdl.org)
 - [Phaser](https://phaser.io/)
+- [Simple Direct Library](http://www.libsdl.org)
 
 ### Audio
 
@@ -160,12 +159,12 @@ This is released under a Creative Commons Attribution Share A like license, vers
 
 ### Graphics
 
-- [OpenGL](https://www.opengl.org/)
 - [DirectX](https://blogs.msdn.microsoft.com/directx/)
+- [OpenGL](https://www.opengl.org/)
 - [Vulkan](https://www.khronos.org/vulkan/)
 
 ## Portifolios Examples
 
 - [Dean Tate](http://www.iamdeantate.com/)
-- [Pierre Stempin](http://www.pierre-stempin.com/)
 - [Hugo Peters](http://hugo.fyi/)
+- [Pierre Stempin](http://www.pierre-stempin.com/)
