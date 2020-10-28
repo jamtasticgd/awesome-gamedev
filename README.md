@@ -8,7 +8,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [Café com games](https://open.spotify.com/show/0rR9g8Iy0avEb0LyUzS6YX) 🇧🇷
 - [Clockwork Game Design](http://keithburgun.net/podcast-2/) 🇺🇸
 - [Coffee with Butterscotch](https://www.bscotch.net/podcast) 🇺🇸
-- [ComposersPlay](https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf) 🇮🇪
+- [Composers Play](https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf) 🇮🇪
 - [Debug Log](http://thedebuglog.com/category/podcast) 🇺🇸
 - [Game Audio Drops](http://gameaudioacademy.com/gac-podcast-drops) 🇧🇷
 - [Game Design Round Table](http://thegamedesignroundtable.com/) 🇺🇸
