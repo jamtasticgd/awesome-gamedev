@@ -8,6 +8,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [Café com games](https://open.spotify.com/show/0rR9g8Iy0avEb0LyUzS6YX) 🇧🇷
 - [Clockwork Game Design](http://keithburgun.net/podcast-2/) 🇺🇸
 - [Coffee with Butterscotch](https://www.bscotch.net/podcast) 🇺🇸
+- [ComposersPlay](https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf) 🇮🇪
 - [Debug Log](http://thedebuglog.com/category/podcast) 🇺🇸
 - [Game Audio Drops](http://gameaudioacademy.com/gac-podcast-drops) 🇧🇷
 - [Game Design Round Table](http://thegamedesignroundtable.com/) 🇺🇸
@@ -57,6 +58,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [Nautilus](https://www.youtube.com/user/nautiluslink) 🇧🇷
 - [Noclip](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw) 🇺🇸
 - [Overloadr](https://www.youtube.com/user/overloadr) 🇧🇷
+- [Scott Tobin](https://www.youtube.com/user/tobinmusic) 🇮🇪
 - [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) 🇺🇸
 - [Unity](https://www.youtube.com/user/Unity3D) 🇺🇸
 - [Unreal](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ) 🇺🇸
