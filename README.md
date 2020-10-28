@@ -58,7 +58,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [Nautilus](https://www.youtube.com/user/nautiluslink) 🇧🇷
 - [Noclip](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw) 🇺🇸
 - [Overloadr](https://www.youtube.com/user/overloadr) 🇧🇷
-- [Scott Tobin](https://www.youtube.com/user/tobinmusic) 🇮🇪
+- [Scott Tobin - Composers Play](https://www.youtube.com/user/tobinmusic) 🇮🇪
 - [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) 🇺🇸
 - [Unity](https://www.youtube.com/user/Unity3D) 🇺🇸
 - [Unreal](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ) 🇺🇸
