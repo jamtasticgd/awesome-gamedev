@@ -22,6 +22,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [GDT Brasil](https://anchor.fm/gdtbrasil) 🇧🇷
 - [GGDevCast](https://ggdevcast.com.br) 🇧🇷
 - [High Level Games](https://www.highlevelgames.ca/podcastingnetwork) 🇺🇸
+- [Hobby Spieleentwickler Podcast](https://hobbyspieleentwicklerpodcast.de/) 🇩🇪
 - [Holodeck](https://www.holodeckdesign.com.br/category/podcast/) 🇧🇷
 - [Humans Who Make Games with Adam Conover](https://starburns.audio/podcasts/humans-who-make-games/) 🇺🇸
 - [Indie Game Business](http://indiegame.business/) 🇺🇸
@@ -142,6 +143,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [GameMaker Studio](https://www.yoyogames.com/gamemaker)
 - [Godot](https://godotengine.org/)
 - [Irrlicht](http://irrlicht.sourceforge.net/)
+- [JNGL](https://github.com/jhasse/jngl)
 - [OGRE(Object-Oriented Graphics Rendering Engine)](https://www.ogre3d.org/)
 - [Unity3D](http://www.unity3d.com)
 - [Unreal Development Kit](http://www.unrealengine.com)
