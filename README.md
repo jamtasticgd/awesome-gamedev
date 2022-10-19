@@ -138,7 +138,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 
 - [Amazon Lumberyard](https://aws.amazon.com/pt/lumberyard/)
 - [Blender Game Engine](https://www.blender.org/)
-- [Constructor](https://www.construct.net/)
+- [Construct](https://www.construct.net/)
 - [CryEngine](https://www.cryengine.com/)
 - [GameMaker Studio](https://www.yoyogames.com/gamemaker)
 - [Godot](https://godotengine.org/)
