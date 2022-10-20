@@ -136,18 +136,18 @@ This is released under a Creative Commons Attribution Share A like license, vers
 
 ## Game Engines
 
-- [Amazon Lumberyard](https://aws.amazon.com/pt/lumberyard/)
-- [Blender Game Engine](https://www.blender.org/)
+- [Open 3D Engine](https://www.o3de.org/)
+- [UPBGE](https://upbge.org/)
 - [Construct](https://www.construct.net/)
 - [CryEngine](https://www.cryengine.com/)
-- [GameMaker Studio](https://www.yoyogames.com/gamemaker)
+- [GameMaker](https://gamemaker.io/pt-BR)
 - [Godot](https://godotengine.org/)
-- [Irrlicht](http://irrlicht.sourceforge.net/)
+- [Irrlicht](https://irrlicht.sourceforge.io/)
 - [JNGL](https://github.com/jhasse/jngl)
-- [OGRE(Object-Oriented Graphics Rendering Engine)](https://www.ogre3d.org/)
-- [Unity3D](http://www.unity3d.com)
-- [Unreal Development Kit](http://www.unrealengine.com)
-- [Xenko](http://www.xenko.com)
+- [OGRE (Object-Oriented Graphics Rendering Engine)](https://www.ogre3d.org/)
+- [Unity](https://unity.com/pt/)
+- [Unreal Engine](https://www.unrealengine.com/pt-BR)
+- [Stride](https://www.stride3d.net/)
 
 ## Game Libs and Frameworks
 
@@ -163,9 +163,9 @@ This is released under a Creative Commons Attribution Share A like license, vers
 
 ### Graphics
 
-- [DirectX](https://blogs.msdn.microsoft.com/directx/)
+- [DirectX](https://devblogs.microsoft.com/directx/)
 - [OpenGL](https://www.opengl.org/)
-- [Vulkan](https://www.khronos.org/vulkan/)
+- [Vulkan](https://www.vulkan.org/)
 
 ## Portifolios Examples
 
