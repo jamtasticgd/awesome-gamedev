@@ -85,6 +85,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [DesignBetter.Co](https://www.designbetter.co) 🇺🇸
 - [Destructoid](https://www.destructoid.com) 🇺🇸
 - [Fábrica de Jogos](http://www.fabricadejogos.net) 🇧🇷
+- [GameIdea](https://gameidea.org) 🇺🇸
 - [GamaSutra](https://www.gamasutra.com/) 🇺🇸
 - [Game Carrer Guide](https://www.gamecareerguide.com) 🇺🇸
 - [Game Developer](https://gamedeveloper.com.br) 🇧🇷
