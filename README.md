@@ -88,6 +88,7 @@ This is released under a Creative Commons Attribution Share A like license, vers
 - [GameIdea](https://gameidea.org) 🇺🇸
 - [GamaSutra](https://www.gamasutra.com/) 🇺🇸
 - [Game Carrer Guide](https://www.gamecareerguide.com) 🇺🇸
+- [Game Design Path](https://gamedesignpath.com) 🇺🇸
 - [Game Developer](https://gamedeveloper.com.br) 🇧🇷
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap) 🇺🇸
 - [Gamedev Brasil](http://www.gamedev.com.br) 🇧🇷
